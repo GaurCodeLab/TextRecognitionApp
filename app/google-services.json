@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "244748745253",
+    "firebase_url": "https://textrecognitionapp-a617f.firebaseio.com",
+    "project_id": "textrecognitionapp-a617f",
+    "storage_bucket": "textrecognitionapp-a617f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244748745253:android:beaf8d349351df0c",
+        "android_client_info": {
+          "package_name": "com.gaur.textrecognitionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0A51dKc7zMXnz2upLz5gSkqdOlPEF5Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244748745253-2kprbqphjv12tta8v30tgd0io4paarc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
